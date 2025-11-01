@@ -85,9 +85,13 @@ Line chart for RevPAR trend.
 Console Summary:
 
 --- Hospitality Revenue Insights Summary ---
+
 Average Occupancy (%): 85.5
+
 Average ADR: 1064.12
+
 Average RevPAR: 910.0
+
 Total Revenue (10 days): 947500
 
 

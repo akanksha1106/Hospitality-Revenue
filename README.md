@@ -38,19 +38,28 @@ Jupyter Notebook / VS Code – For development and analysis
 #  Key Metrics Explained
 Metric	Formula	Description
 Occupancy Rate (%)	(Rooms Sold / Rooms Available) × 100	Measures the percentage of rooms occupied
+
 ADR (Average Daily Rate)	Room Revenue / Rooms Sold	Indicates the average room rate per night
+
 RevPAR (Revenue per Available Room)	Room Revenue / Rooms Available	Shows how much revenue is generated per available room
+
 Total Revenue	Room + F&B + Other Revenue	Represents overall revenue across departments
 # Dataset Description
 
 The dataset is sample-generated using Pandas for 10 days of hotel operations.
 
 Column	Description
+
 Date	Day of operation
+
 Rooms_Available	Total rooms available per day
+
 Rooms_Sold	Number of rooms sold per day
+
 Room_Revenue	Revenue earned from room sales
+
 F&B_Revenue	Revenue from food & beverage services
+
 Other_Revenue	Revenue from other sources (spa, parking, etc.)
 # Features in Code
 
